@@ -23,5 +23,5 @@
     echo "You have ordered {$quantity} {$item} <br>";
     echo "Your total price: {$total}";
 
-
-?>
+    echo "test";
+?> 
